@@ -3,3 +3,5 @@ scipy>=1.4.1
 matplotlib>=3.2.0
 pandas>=1.0.2
 scikit-learn>=0.22.2.post1
+pydotplus>=2.0.2
+graphviz>=0.13.2
