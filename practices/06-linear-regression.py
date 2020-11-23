@@ -33,7 +33,7 @@ and 1 means 100% related.
 print(r)
 
 '''
-The result -076 shows that there is a relationship, not perfect, 
+The result -076 shows that there is a relationship, not perfect,
 but it indicates that we could use linear regression in future predictions.
 If the result is like 0.01, it indicates a very bad relationship,
 and tells us that this data set is not suitable for linear regression.
